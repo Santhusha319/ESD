@@ -3,7 +3,8 @@ Welcome to telisco kitchen
 kheer
 pasta
 Chicken fry
-
+Beans
+Pizza
 
 
 thank you
